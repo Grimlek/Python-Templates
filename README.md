@@ -5,3 +5,4 @@ such as importing a file into a database or some other automation related task. 
 
 ### Templates     
 - MySQL
+- Deploy AWS EC2
